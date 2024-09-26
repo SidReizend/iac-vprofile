@@ -5,7 +5,7 @@ on:
       - main
       - stage
     paths: 
-      - terraform/**
+      - .github/workflows/**
   pull_request:
     branches:
       - main
